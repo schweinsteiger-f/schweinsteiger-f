@@ -33,4 +33,6 @@ Aqui estão as ferramentas que uso no meu dia a dia para desenvolver meus projet
 ### 🎮 Fora do Código...
 Quando não estou brigando com o CSS ou buildando projetos, você provavelmente vai me encontrar:
 * Jogando algo
-* Jogando na Steam.
+* Testando comandos no terminal linux
+* Fazendo nada
+* Revirando o instagram 
