@@ -17,16 +17,6 @@ Aqui estão as ferramentas que uso no meu dia a dia para desenvolver meus projet
 | **Ambiente & Ferramentas** | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
 
 ---
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <!-- Gráfico de Linha do Tempo de Commits (Funcionando perfeitamente!) -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=schweinsteiger-f&theme=tokyonight" />
-</p>
-
----
 
 ---
 
