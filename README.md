@@ -26,7 +26,7 @@ Aqui estão as ferramentas que uso no meu dia a dia para criar e estilizar meus 
 Quando não estou brigando com o CSS ou buildando projetos, você provavelmente vai me encontrar:
 * 🕹️ Jogando algum game no PC ou console.
 * 🐧 Testando novos comandos e customizações no terminal Linux.
-* ☕ Relaxando e atualizando as redes sociais.
+* ☕ Relaxando e atualizando as redes sociais (nem tanto).
 
 ---
 
