@@ -1,6 +1,6 @@
 # Olá, eu sou o Schweinsteiger Pacheco Dias! 👋
 
-### 🚀 Desenvolvedor Front-End | Entusiasta Linux
+### 🚀 Desenvolvedor Full-Stack | Entusiasta Arch Linux ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)   
 
 Tenho 12 anos, moro no Brasil e sou apaixonado por tecnologia, desenvolvimento web e automação de sistemas. Estou constantemente estudando para transformar linhas de código em experiências visuais incríveis!
 
